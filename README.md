@@ -1,1 +1,3 @@
 # searchtest
+
+a-test-word
